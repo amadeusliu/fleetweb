@@ -14,7 +14,7 @@ public class HelloController {
 	public String test()
 	{
 
-		return username+"xxx beiyang18952020";
+		return username+"good day!!!";
 	}
 
 }
