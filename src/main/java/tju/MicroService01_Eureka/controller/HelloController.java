@@ -14,7 +14,7 @@ public class HelloController {
 	public String test()
 	{
 
-		return username+"good day!!!";
+		return username+" I ama ok!!!";
 	}
 
 }
