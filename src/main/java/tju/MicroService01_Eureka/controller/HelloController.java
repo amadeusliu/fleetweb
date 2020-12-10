@@ -14,7 +14,7 @@ public class HelloController {
 	public String test()
 	{
 
-		return username+" I ama ok!!!";
+		return username+" 2020-12-10!!!";
 	}
 
 }
